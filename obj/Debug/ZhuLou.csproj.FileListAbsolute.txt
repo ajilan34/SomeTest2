@@ -1,0 +1,7 @@
+C:\Users\lzd\source\repos\ZhuLou\ZhuLou\bin\Debug\ZhuLou.exe.config
+C:\Users\lzd\source\repos\ZhuLou\ZhuLou\bin\Debug\ZhuLou.exe
+C:\Users\lzd\source\repos\ZhuLou\ZhuLou\bin\Debug\ZhuLou.pdb
+C:\Users\lzd\source\repos\ZhuLou\ZhuLou\obj\Debug\ZhuLou.csproj.AssemblyReference.cache
+C:\Users\lzd\source\repos\ZhuLou\ZhuLou\obj\Debug\ZhuLou.csproj.CoreCompileInputs.cache
+C:\Users\lzd\source\repos\ZhuLou\ZhuLou\obj\Debug\ZhuLou.exe
+C:\Users\lzd\source\repos\ZhuLou\ZhuLou\obj\Debug\ZhuLou.pdb
